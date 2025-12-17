@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+    text-align: center;
+}
+
+textarea, input {
+    width: 60%;
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+pre {
+    background: black;
+    color: lime;
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+}
