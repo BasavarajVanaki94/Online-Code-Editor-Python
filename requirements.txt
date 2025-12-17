@@ -1,1 +1,1 @@
-eel
+pip install eel
