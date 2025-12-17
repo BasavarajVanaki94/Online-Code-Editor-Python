@@ -15,5 +15,7 @@ This project is built using:
 - No Flask / No Django
 
 ## How to Run
-pip install eel
+pip install eel  
 python main.py
+## Platform
+Use VS Code, PyCharm for better result
