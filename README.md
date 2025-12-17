@@ -12,7 +12,6 @@ This project is built using:
 - Online Python Code Editor
 - User Registration (Name & Mobile)
 - SQLite database storage
-- No Flask / No Django
 
 ## How to Run
 pip install eel  
